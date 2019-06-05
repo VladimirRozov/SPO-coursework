@@ -1,0 +1,6 @@
+%include 'library/arithmetic.inc'
+%include 'library/colon.inc'
+%include 'library/logic.inc'
+%include 'library/stack.inc'
+%include 'library/system.inc'
+%include 'library/wrappers.inc'
